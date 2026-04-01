@@ -5,7 +5,7 @@ Built for small businesses, agencies, and local service providers managing onlin
 
 ---
 
-[![Try Live Demo](https://img.shields.io/badge/Try%20Live-Demo-1c3d2e?style=for-the-badge)](https://your-username.github.io/replygenius-ai-review-response-tool/)  
+[![Try Live Demo](https://img.shields.io/badge/Try%20Live-Demo-1c3d2e?style=for-the-badge)](https://abduays.github.io/replygenius-ai-review-response/)  
 ![No Signup](https://img.shields.io/badge/No%20Signup-Required-c9963a?style=for-the-badge)  
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-2e6b4a?style=for-the-badge)  
 ![License](https://img.shields.io/badge/License-MIT-faf6ef?style=for-the-badge)
